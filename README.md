@@ -6,8 +6,8 @@ ref: https://github.com/rafaballerini/rafaballerini
 </div>
 <div align="center">
   <a href="https://github.com/mayukuni">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mayukuni&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&card_width=250&border_radius=0&border_color=ffeed3&icon_color=a8b23f&title_color=dac7ae&bg_color=3f67b2&text_color=ffeed3"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukuni&card_width=360px&border_radius=0&border_color=ffeed3&icon_color=c576c1&title_color=dac7ae&bg_color=3f67b2&text_color=ffeed3"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mayukuni&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&card_width=250&border_radius=8&border_color=ffeed3&icon_color=a8b23f&title_color=dac7ae&bg_color=3f67b2&text_color=ffeed3"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukuni&card_width=360px&border_radius=8&border_color=ffeed3&icon_color=c576c1&title_color=dac7ae&bg_color=3f67b2&text_color=ffeed3"/>
 </div>
 <div align="center"> <br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
