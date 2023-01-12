@@ -2,7 +2,13 @@
 ref: https://github.com/rafaballerini/rafaballerini
 -->
 <div>
-<h1>Oiii, eu sou a Mayumi</h1>
+  <h1>Oiii, eu sou a Mayumi :dango:</h1>
+</div>
+<div>
+  <ul>
+    <li>Estudando desenvolvimento web Full-Stack na Trybe :seedling: </li>
+    <li>Atualmente aprendendo Python</li>
+  </ul>
 </div>
 <div align="center">
   <a href="https://github.com/mayukuni">
