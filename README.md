@@ -8,8 +8,12 @@ ref: https://github.com/rafaballerini/rafaballerini
   <ul>
     <li>Estudando desenvolvimento web Full-Stack na Trybe :seedling: </li>
     <li>Atualmente aprendendo Python</li>
+    <li>Deixo a stream do Gaules aberta o dia inteirinho :purple_heart:</li>
+    <li>Jogo Valorant só para completar passe</li>
+    <li>Eu finjo que não assisto animes mas a verdade é que tenho até perfil no MyAnimeList :nerd_face:</li>
   </ul>
 </div>
+<br>
 <div align="center">
   <a href="https://github.com/mayukuni">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mayukuni&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&card_width=250&border_radius=8&border_color=ffeed3&icon_color=a8b23f&title_color=dac7ae&bg_color=3f67b2&text_color=ffeed3"/>
