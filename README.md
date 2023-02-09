@@ -8,7 +8,7 @@ ref: https://github.com/rafaballerini/rafaballerini
   <ul>
     <li>Estudando desenvolvimento web Full-Stack na Trybe :seedling: </li>
     <li>Atualmente aprendendo Python</li>
-    <li>Deixo a stream do Gaules aberta o dia inteirinho :purple_heart:</li>
+    <li>Deixo a stream do Gaules aberta o dia inteirinho</li>
     <li>Jogo Valorant só para completar passe</li>
     <li>Eu finjo que não assisto animes mas a verdade é que tenho até perfil no MyAnimeList :nerd_face:</li>
   </ul>
