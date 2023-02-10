@@ -22,7 +22,6 @@ ref: https://github.com/rafaballerini/rafaballerini
   <img align="center" alt="mayu-picrew" height="190" src="https://cdn.discordapp.com/attachments/788297155982262293/1044447963201679400/ezgif.com-gif-maker_7.gif">
 </div>
 <div align="center">
-  <img align="center" alt="mayu-picrew" height="190" src="https://cdn.discordapp.com/attachments/788297155982262293/1044447963201679400/ezgif.com-gif-maker_7.gif">
   <br> <br>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -42,6 +41,7 @@ ref: https://github.com/rafaballerini/rafaballerini
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <img align="center" alt="eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
   <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="mayu-picrew" height="190" src="https://cdn.discordapp.com/attachments/788297155982262293/1044447963201679400/ezgif.com-gif-maker_7.gif">
 </div>
 
 <div align="center" 
