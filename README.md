@@ -23,6 +23,8 @@ ref: https://github.com/rafaballerini/rafaballerini
 </div>
 <div align="center">
   <img align="center" alt="mayu-picrew" height="190" src="https://cdn.discordapp.com/attachments/788297155982262293/1044447963201679400/ezgif.com-gif-maker_7.gif">
+  <a href = "mailto:cinthya.m.kuniyoshi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mayumikuniyoshi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br> <br>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -49,11 +51,5 @@ ref: https://github.com/rafaballerini/rafaballerini
  
   ![Snake animation](https://github.com/mayukuni/mayukuni/blob/output/github-contribution-grid-snake.svg)
  
-</div>
-  
-<div align="center"> 
-  <a href = "mailto:cinthya.m.kuniyoshi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mayumikuniyoshi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
