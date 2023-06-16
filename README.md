@@ -6,7 +6,7 @@ ref: https://github.com/rafaballerini/rafaballerini
 </div>
 <div>  
   <ul>
-    <li>Estudando desenvolvimento web Full-Stack na Trybe :seedling: </li>
+    <li>Estudando ciência da computação na Faculdade Impacta :seedling: </li>
     <li>Atualmente aprendendo Python</li>
     <li>Deixo a stream do Gaules aberta o dia inteirinho</li>
     <li>Jogo Valorant só pra completar o passe :gun: </li>
